@@ -43,6 +43,6 @@
 #### Useful Subpatches
 - **[[p llegadassalidas]]**: Precise configuration of output behavior.
 - **[[p afinar i tempo]]**: Provides beat and an oscillator for tuning. You should change the contents of sound buffers or adust de MIDI device in    order to perceive any rythm
-- **[[p ip]]** provides your ip public address. This is useful when running a Netty-McNetface server and Netty-McNetface clients. 
+- **[[p ip]]**: provides your ip public address. This is useful when running a Netty-McNetface server and Netty-McNetface clients. 
 
 By following these steps and configurations, you can efficiently start using Autoimpro to generate complex sound patterns based on improvisation.
