@@ -1,11 +1,15 @@
 # Autoimpro
 8 computational agents select time frames from your improvisation and transpose them. This mimics the behavior of some improvisers and creates layers of sound that can give you ideas for proposing new improvisation materials.
+
 ### Autoimpro Configuration and Usage in Max
 
 #### Prerequisites
 - **Max 8 or higher**: Autoimpro is compatible with Max 8 and later versions. It is likely to work on earlier versions as well.
 - **Compatible Platforms**: MacOS and Windows.
 - **HIRT Libraries**: You need to have the HIRT libraries installed via Max's Package Manager.
+
+### Launching Autoimpro
+After downloading and unpacking, seek for 0-autoimpro10-0-0.maxpat and open it with Max. You do not need to autorize Max. You do not need to open any other file. The rest of files are dependencies.
 
 #### Initial Setup
 1. **Audio Device**:
