@@ -5,8 +5,6 @@ The eight agents perform very simple functions with the aim of emulating certain
 
 We drew inspiration from Joseph Weizenbaum’s early ELIZA model (1966): the first agent that becomes available to make a decision randomly selects a fragment from the human performer’s improvisation and transposes it. The other agents have a 70% probability of selecting fragments close to those chosen by the other agents and transposing them to different keys. With the complementary probability, they independently select a random fragment, which they also transpose.
 
-These behaviours give rise to rich musical outcomes. Although we find many of these results musically satisfying, we feel that the system lacks more intelligent forms of transformation.
-
 ### Autoimpro Configuration and Usage in Max
 
 #### Prerequisites
